@@ -1,0 +1,3 @@
+1.写心经
+2.复习node
+3.学习vuex,vue-router
